@@ -463,7 +463,7 @@ function Jack() {
   </div>
 
 </div>
-<p>Copyright ©2024 All rights reserved | This template is made with  by Colorlib</p>
+<p>Copyright ©2025 All rights reserved | This template is made with  by Colorlib</p>
   
 </div>
 
